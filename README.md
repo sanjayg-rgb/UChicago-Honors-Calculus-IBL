@@ -8,22 +8,22 @@ This is the first course I have taken as a part of my study of mathematics at th
 The following discusses the breakdown of the curriculum covered. 
 
 ### Calculus I
-Script 1: Sets, Functions, and Cardinality
-Script 2: The Rationals
-Script 3: Introducing the Continuum 
-Script 4: The Topology of the Continuum in (.pdf) and (.tex) formats.
-Script 5: Connectedness and Boundedness
-Script 6: Construction of the Real Numbers
+Script 1: Sets, Functions, and Cardinality <br/>
+Script 2: The Rationals <br/>
+Script 3: Introducing the Continuum <br/>
+Script 4: The Topology of the Continuum <br/>
+Script 5: Connectedness and Boundedness <br/>
+Script 6: Construction of the Real Numbers <br/>
 
 ### Calculus II
-Script 7: The Field Axioms
-Script 8: Intervals
-Script 9: Continuous Functions
-Script 10: Compactness
+Script 7: The Field Axioms <br/>
+Script 8: Intervals <br/>
+Script 9: Continuous Functions <br/>
+Script 10: Compactness <br/>
 
 ### Calculus III
-Script 11: Limits and Continuity
-Script 12: Derivatives
-Script 13: Uniform Continuity and Integration
-Script 14: Integration and Derivatives
-Script 15: Sequences
+Script 11: Limits and Continuity <br/>
+Script 12: Derivatives <br/>
+Script 13: Uniform Continuity and Integration <br/>
+Script 14: Integration and Derivatives <br/>
+Script 15: Sequences <br/>
